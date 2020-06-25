@@ -4,11 +4,11 @@ module "github" {
   administrators = [
     "chrisbsmith",
     "kaitmore",
+    "dontlaugh",
+    "hiromis",
   ]
 
   members = [
-    "dontlaugh",
-    "hiromis",
   ]
 
   repositories = [
